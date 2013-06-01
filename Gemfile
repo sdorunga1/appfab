@@ -76,6 +76,9 @@ gem 'sentry-raven'
 # coffeescript JS views
 gem 'coffee-rails'
 
+# push / websocket events
+gem 'pusher'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
